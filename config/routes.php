@@ -36,5 +36,5 @@ return array
      "user/operator/regis" =>"user/register",
      "/user/operator"=>"user/operator",
      
-    "/" =>"user/login"
+    "/" =>"user/login" 
 );
